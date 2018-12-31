@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<references>
+  <train>
+    <happy>D:\Study\smiles\train\happy</happy>
+    <sad>D:\Study\smiles\train\sad</sad>
+    <answers>D:\Study\smiles\train</answers>
+  </train>
+  <test>
+    <happy>D:\Study\smiles\test\happy</happy>
+    <sad>D:\Study\smiles\test\sad</sad>
+  </test>
+</references>
